@@ -4,14 +4,13 @@ $(function () {
     $('#banner_part').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        //autoplay: true,
+        autoplay: true,
         autoplaySpeed: 2000,
         speed: 1000,
         arrows: false,
         dots: true,
         cssEase: 'linear',
         pauseOnHover: true,
-        //fade: true,
     });
 
 
@@ -23,7 +22,7 @@ $(function () {
     $('.team_slider').slick({
         slidesToShow: 4,
         slidesToScroll: 1,
-        //autoplay: true,
+        autoplay: true,
         autoplaySpeed: 2000,
         speed: 1500,
         arrows: false,
@@ -60,7 +59,7 @@ $(function () {
     $('.testimonial_slider').slick({
         slidesToShow: 2,
         slidesToScroll: 2,
-        //autoplay: true,
+        autoplay: true,
         autoplaySpeed: 2000,
         speed: 1500,
         arrows: false,
@@ -104,7 +103,7 @@ $(function () {
     $('.sponsor_slider').slick({
         slidesToShow: 5,
         slidesToScroll: 1,
-        //autoplay: true,
+        autoplay: true,
         autoplaySpeed: 2000,
         speed: 500,
         arrows: true,
