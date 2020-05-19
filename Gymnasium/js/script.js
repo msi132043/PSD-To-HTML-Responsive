@@ -34,14 +34,14 @@ $(function () {
                 breakpoint: 992,
                 settings: {
                     slidesToShow: 3,
-                    slidesToScroll: 1
+                    slidesToScroll: 2
                 }
             },
             {
-                breakpoint: 678,
+                breakpoint: 768,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToScroll: 1
                 }
             },
             {
@@ -70,15 +70,15 @@ $(function () {
         responsive: [{
                 breakpoint: 992,
                 settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1
+                    slidesToShow: 2,
+                    slidesToScroll: 2
                 }
             },
             {
-                breakpoint: 678,
+                breakpoint: 768,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToScroll: 1
                 }
             },
             {
@@ -116,14 +116,14 @@ $(function () {
         responsive: [{
                 breakpoint: 992,
                 settings: {
-                    slidesToShow: 5,
+                    slidesToShow: 4,
                     slidesToScroll: 1
                 }
             },
             {
-                breakpoint: 678,
+                breakpoint: 768,
                 settings: {
-                    slidesToShow: 4,
+                    slidesToShow: 3,
                     slidesToScroll: 1
                 }
             },
@@ -131,7 +131,7 @@ $(function () {
                 breakpoint: 576,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToScroll: 1
                 }
             }
         ]

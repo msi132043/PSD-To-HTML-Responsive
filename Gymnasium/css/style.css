@@ -203,7 +203,7 @@ section {
 
 .banner_text-shape h3::after {
     height: 3px;
-    width: 109px;
+    width: 108px;
     right: 0;
     top: 21px;
     clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 5% 100%);
@@ -211,21 +211,21 @@ section {
 
 .banner_text-shape h1::before {
     width: 3px;
-    height: 200px;
+    height: 196px;
     left: 0;
-    top: -24px;
+    top: -23px;
 }
 
 .banner_text-shape h1::after {
     width: 3px;
-    height: 200px;
+    height: 196px;
     right: 0;
-    top: -24px;
+    top: -23px;
 }
 
 .banner_text-shape p::before {
     height: 3px;
-    width: 72px;
+    width: 74px;
     left: 0;
     bottom: -25px;
 }
@@ -481,9 +481,9 @@ section {
 
 /*  ===================== Team Part Start ==================  
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   */
-/* .team_head {
-    margin-bottom: 65px;
-} */
+#team_part {
+    margin-bottom: 15px;
+}
 
 .team_head h2 {
     font-family: 'Oswald', sans-serif;
